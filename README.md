@@ -9,4 +9,6 @@
  * [Google Compute Engine pricing](https://cloud.google.com/compute/pricing)
  * [Google Compute Engine Demos](http://gce-demos.appspot.com)
  * [Right Scale](https://us-3.rightscale.com/acct/101869/accounts/101869/clouds)
+ * [Google Developers Blog](https://developers.googleblog.com/)
+ * [Gmail API](https://developers.google.com/gmail/api/?hl=en_US)
 
