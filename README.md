@@ -6,3 +6,4 @@
  * [Github Webhooks](https://developer.github.com/webhooks/)
  * [Google Compute Engine](https://cloud.google.com/compute/)
  * [Google API Console](https://console.developers.google.com/apis/dashboard?project=resonant-augury-146919&duration=PT6H)
+ * [Google Compute Engine pricing](https://cloud.google.com/compute/pricing)
